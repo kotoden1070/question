@@ -1,0 +1,29 @@
+[
+    {
+        "no":1,
+        "title":"世界初の油圧式制御振り子搭載気動車は?",
+        "choice1":"jr西日本キハ187系",
+        "choice2":"jr四国2000系",
+        "choice3":"jr東海キハ85系",
+        "choice4":"jr北海道キハ281系",
+        "answer":2
+    },
+    {
+        "no":2,
+        "title":"琴電琴平線の前身は",
+        "choice1":"琴平電鉄",
+        "choice2":"琴平急行",
+        "choice3":"琴平参宮電鉄",
+        "choice4":"四国水力電気",
+        "answer":1
+    },
+    {
+        "no":3,
+        "title":"jr四国8000系電車試作編成(S01)の量産化前の設計最高速度は",
+        "choice1":"120km/h",
+        "choice2":"140km/h",
+        "choice3":"160km/",
+        "choice4":"200km/h",
+        "answer":3
+    }
+]
